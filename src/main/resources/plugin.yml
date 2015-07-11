@@ -1,0 +1,10 @@
+name: CraftBattle
+author: ReSh3dow
+version: 0.1
+
+main: net.sh3dow.craftbattle.Main
+
+commands:
+  craftbattle:
+    description: Command to get information about the plugin!
+    aliases: [cb, craftb,cbattle]
