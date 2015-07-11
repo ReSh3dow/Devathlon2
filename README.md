@@ -13,7 +13,7 @@
 
 <br></br>
 <h2>Was macht mein Projekt besonders</h2>
-<p>Nun das besondere an meinem Projekt ist die Arbeit mit den Packets wenn man sich das ganze anschaut ist der Spielablauf das man zuerst ein Item bekommt was man craften soll das craftet man dann spawnen für jeden Spieler mit PACKETS an einer Stelle Crafter mit Gomme Skin etc zu diesen muss man durch ein Jump and Run kommen und sie mit dem Item schlagen dann hat man eine der 7 Runden gewonnen. Für jede Runde bekommt der Gewinner Gears(Ausrüstung). Zum Schluss ist noch eine Art DeathMatch wo jeder gegen jeden Kämpft und der Sieger bekommt Punkte etc.</p>
+<p>Nun das besondere an meinem Projekt ist die Arbeit mit den Packets wenn man sich das ganze ansieht ist der Spielablauf das man zuerst ein Item bekommt was man craften soll das craftet man dann spawnen für jeden Spieler mit PACKETS an einer Stelle Crafter mit Gomme Skin etc zu diesen muss man durch ein Jump and Run kommen und sie mit dem Item schlagen dann hat man eine der 7 Runden gewonnen. Für jede Runde bekommt der Gewinner Gears(Ausrüstung). Zum Schluss ist noch eine Art DeathMatch wo jeder gegen jeden Kämpft und der Sieger bekommt Punkte etc.</p>
 <br></br>
 <p>Leider können wie gesagt noch bugs sein und die CraftItem List und GearList sind nicht wirklich fertig da nur ein paar Items zum testen darin sind</p>
 
